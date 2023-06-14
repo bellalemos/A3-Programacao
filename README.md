@@ -1,7 +1,7 @@
 # A3-Programacao
 A3 de programacao
  esboço 1 do projeto de time de futebol
- Objetivo é armazenar os dados de jogadores de um time de futebol mostrando sua altura , nome, peso, poçisão no campo e lado que joga 
+ Objetivo é armazenar os dados de jogadores de um time de futebol mostrando sua altura , nome, peso, poçisão no campo e lado que joga exibindo em janela de tabela 
  
  
  
@@ -12,7 +12,7 @@ class Jogador {
     private double peso;
     private String posicao;
     private String lado;
-
+(construtor)
     public Jogador(String nome, double altura, double peso, String posicao, String lado) {
         this.nome = nome;
         this.altura = altura;
@@ -20,7 +20,7 @@ class Jogador {
         this.posicao = posicao;
         this.lado = lado;
     }
-
+(encapsulamento)
     public String getNome() {
         return nome;
     }
