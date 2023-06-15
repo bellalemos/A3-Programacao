@@ -9,3 +9,5 @@ corrigido de algum erro e ser passado para a forma de apresentação.
 passo 1- entrar em timeprojetopasso 
 passo 2 - entrar em "scr" e copiar e colar os "packeges" no netbeans editar e testar 
 O codigo esta pronto é só corrigir pelo amor de jeova
+link do youtube explicando
+https://www.youtube.com/watch?v=jmx0PiCM3pc
